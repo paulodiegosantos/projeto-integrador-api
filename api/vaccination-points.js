@@ -1,4 +1,4 @@
-const points = require('../data/vaccinationPoints.json');
+const points = require('../data/vaccinationpoints.json');
 
 export default function handler(req, res) {
   const { cityId } = req.query;
