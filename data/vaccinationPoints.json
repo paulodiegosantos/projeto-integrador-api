@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "UBS Centro", "address": "Rua 1, 123", "cityId": 1 },
+  { "id": 2, "name": "UBS Norte", "address": "Rua 2, 456", "cityId": 1 },
+  { "id": 3, "name": "UBS Sul", "address": "Rua 3, 789", "cityId": 2 }
+]
